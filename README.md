@@ -95,6 +95,12 @@ assisting cyber security experts
 83. [TinyWoW](https://tinywow.com/tools) - Free Tools to Make Everything Simple
 84. [TEXT-TO-SQL](https://www.text2sql.ai/) -  Translate plain English to SQL with AI for free! Build complex SQL queries from your prompts fast!
 
+85. [Ajun Industry](https://ajun-industry.packscena.com/) - Chinese-language industry-chain reference library with illustrated explainers and company relationships.
+86. [LogoMovo](https://logomovo.com/) - AI logo studio with public design references; generation requires sign-in and payment.
+87. [LookScene](https://lookscene.packscena.com/) - AI hairstyle, outfit and scene previews; the current trial requires invitation, sign-in and credits.
+88. [NailMoodLab](https://nailmoodlab.com/) - Nail-design references and AI style previews; generation requires sign-in and usage credits.
+89. [PackScena](https://packscena.com/) - AI product-photo backgrounds and lifestyle scenes; the current trial requires invitation, sign-in and an allowance.
+90. [SubAtlas](https://subatlas.packscena.com/) - Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions.
   **Many more will be added soon.**
 
 
